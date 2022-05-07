@@ -12,6 +12,7 @@ As paredes brancas na tela, na verdade, são Picture Boxes sem imagens e com cor
 - **A tecla A**, ou seja, para a esquerda, o quadrado azul irá se mover 40 pixels para a direita;
 - **A tecla S**, ou seja, para baixo, o quadrado azul irá se mover 40 pixels para cima;
 - **A tecla D**, ou seja, para a direita, o quadrado azul irá se mover 40 pixels para a esquerda;
+
 Basicamente, o quadrado azul fica dentro da parede branca, porém instantâneamente acaba retornando à sua posição original, dando esse efeito de colisão.
 
 Este é o meu programa, espero que tenha gostado e que a explicação tenha sido eficiente. No próprio código, há alguns comentários explicando as linhas para caso queira entender melhor.
